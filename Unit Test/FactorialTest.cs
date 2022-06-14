@@ -19,5 +19,18 @@ namespace Unit_Test
             //assert
             Assert.AreEqual(expected, actual);
         }
+        [TestMethod]
+        public void Factorial_FlujoAlternativo()
+        {
+            //arrange
+            int num = 0;
+            int expected = 1;
+
+            //act
+            int actual = Calculos.Factorial(num);
+
+            //assert
+            Assert.AreEqual(expected, actual);
+        }
     }
 }

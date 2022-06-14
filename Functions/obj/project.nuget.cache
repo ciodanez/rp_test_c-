@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m76k13MfqNEw2S6Iuq5x+AU41nD3WDL7TbyXLKbUXZqxxms3QRC2VtGahz1wAfxs6BSA1kHFcig02u5+sWkG2A==",
+  "dgSpecHash": "y5T9e6p+76O88SHNK11XJHAURUnqRKOllYdqKaup/KIu/e+VuxQBW3g0SXNdRXYdhg7lB+W22T73S0yNtBEOtA==",
   "success": true,
-  "projectFilePath": "D:\\Repositories\\if4101-lenguajes\\Testing .NET\\Functions\\Program.csproj",
+  "projectFilePath": "D:\\Repositories\\Pruebas Unitarias c#\\Functions\\Program.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

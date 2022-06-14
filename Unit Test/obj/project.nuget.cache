@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gQo445fK59psjTmPuzpievxsKCM/8/wwQjyOihQUUQEwpEH0CcOOvN5A/CfNtDk8czCfpc5oeQpY8bWNzeC9kA==",
+  "dgSpecHash": "3ov976Bv/fdxjAZssF5vEEm741nqo2bMkDuwbRabF2nOhSYAXOSx6OtHtimBhH8wW2zXGm56A1fkP8QCV1P84Q==",
   "success": true,
-  "projectFilePath": "D:\\Repositories\\if4101-lenguajes\\Testing .NET\\Unit Test\\Unit Test.csproj",
+  "projectFilePath": "D:\\Repositories\\Pruebas Unitarias c#\\Unit Test\\Unit Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fabri\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\fabri\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",

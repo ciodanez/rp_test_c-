@@ -6225,11 +6225,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repositories\\if4101-lenguajes\\Testing .NET\\Unit Test\\Unit Test.csproj",
+      "projectUniqueName": "D:\\Repositories\\Pruebas Unitarias c#\\Unit Test\\Unit Test.csproj",
       "projectName": "Unit Test",
-      "projectPath": "D:\\Repositories\\if4101-lenguajes\\Testing .NET\\Unit Test\\Unit Test.csproj",
+      "projectPath": "D:\\Repositories\\Pruebas Unitarias c#\\Unit Test\\Unit Test.csproj",
       "packagesPath": "C:\\Users\\fabri\\.nuget\\packages\\",
-      "outputPath": "D:\\Repositories\\if4101-lenguajes\\Testing .NET\\Unit Test\\obj\\",
+      "outputPath": "D:\\Repositories\\Pruebas Unitarias c#\\Unit Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6246,8 +6246,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Repositories\\if4101-lenguajes\\Testing .NET\\Functions\\Program.csproj": {
-              "projectPath": "D:\\Repositories\\if4101-lenguajes\\Testing .NET\\Functions\\Program.csproj"
+            "D:\\Repositories\\Pruebas Unitarias c#\\Functions\\Program.csproj": {
+              "projectPath": "D:\\Repositories\\Pruebas Unitarias c#\\Functions\\Program.csproj"
             }
           }
         }

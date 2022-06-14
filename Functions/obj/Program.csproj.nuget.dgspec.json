@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repositories\\if4101-lenguajes\\Testing .NET\\Functions\\Program.csproj": {}
+    "D:\\Repositories\\Pruebas Unitarias c#\\Functions\\Program.csproj": {}
   },
   "projects": {
-    "D:\\Repositories\\if4101-lenguajes\\Testing .NET\\Functions\\Program.csproj": {
+    "D:\\Repositories\\Pruebas Unitarias c#\\Functions\\Program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositories\\if4101-lenguajes\\Testing .NET\\Functions\\Program.csproj",
+        "projectUniqueName": "D:\\Repositories\\Pruebas Unitarias c#\\Functions\\Program.csproj",
         "projectName": "Program",
-        "projectPath": "D:\\Repositories\\if4101-lenguajes\\Testing .NET\\Functions\\Program.csproj",
+        "projectPath": "D:\\Repositories\\Pruebas Unitarias c#\\Functions\\Program.csproj",
         "packagesPath": "C:\\Users\\fabri\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositories\\if4101-lenguajes\\Testing .NET\\Functions\\obj\\",
+        "outputPath": "D:\\Repositories\\Pruebas Unitarias c#\\Functions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
