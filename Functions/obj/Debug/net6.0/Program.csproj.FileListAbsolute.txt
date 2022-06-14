@@ -1,0 +1,30 @@
+C:\Users\Fabricio\Desktop\Testing\Functions\obj\Debug\net6.0\Program.csproj.AssemblyReference.cache
+C:\Users\Fabricio\Desktop\Testing\Functions\obj\Debug\net6.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabricio\Desktop\Testing\Functions\obj\Debug\net6.0\Program.AssemblyInfoInputs.cache
+C:\Users\Fabricio\Desktop\Testing\Functions\obj\Debug\net6.0\Program.AssemblyInfo.cs
+C:\Users\Fabricio\Desktop\Testing\Functions\obj\Debug\net6.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\Fabricio\Desktop\Testing\Functions\bin\Debug\net6.0\Program.exe
+C:\Users\Fabricio\Desktop\Testing\Functions\bin\Debug\net6.0\Program.deps.json
+C:\Users\Fabricio\Desktop\Testing\Functions\bin\Debug\net6.0\Program.runtimeconfig.json
+C:\Users\Fabricio\Desktop\Testing\Functions\bin\Debug\net6.0\Program.dll
+C:\Users\Fabricio\Desktop\Testing\Functions\bin\Debug\net6.0\Program.pdb
+C:\Users\Fabricio\Desktop\Testing\Functions\obj\Debug\net6.0\Program.dll
+C:\Users\Fabricio\Desktop\Testing\Functions\obj\Debug\net6.0\refint\Program.dll
+C:\Users\Fabricio\Desktop\Testing\Functions\obj\Debug\net6.0\Program.pdb
+C:\Users\Fabricio\Desktop\Testing\Functions\obj\Debug\net6.0\Program.genruntimeconfig.cache
+C:\Users\Fabricio\Desktop\Testing\Functions\obj\Debug\net6.0\ref\Program.dll
+D:\Repositories\if4101-lenguajes\Testing .NET\Functions\bin\Debug\net6.0\Program.exe
+D:\Repositories\if4101-lenguajes\Testing .NET\Functions\bin\Debug\net6.0\Program.deps.json
+D:\Repositories\if4101-lenguajes\Testing .NET\Functions\bin\Debug\net6.0\Program.runtimeconfig.json
+D:\Repositories\if4101-lenguajes\Testing .NET\Functions\bin\Debug\net6.0\Program.dll
+D:\Repositories\if4101-lenguajes\Testing .NET\Functions\bin\Debug\net6.0\Program.pdb
+D:\Repositories\if4101-lenguajes\Testing .NET\Functions\obj\Debug\net6.0\Program.csproj.AssemblyReference.cache
+D:\Repositories\if4101-lenguajes\Testing .NET\Functions\obj\Debug\net6.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\if4101-lenguajes\Testing .NET\Functions\obj\Debug\net6.0\Program.AssemblyInfoInputs.cache
+D:\Repositories\if4101-lenguajes\Testing .NET\Functions\obj\Debug\net6.0\Program.AssemblyInfo.cs
+D:\Repositories\if4101-lenguajes\Testing .NET\Functions\obj\Debug\net6.0\Program.csproj.CoreCompileInputs.cache
+D:\Repositories\if4101-lenguajes\Testing .NET\Functions\obj\Debug\net6.0\Program.dll
+D:\Repositories\if4101-lenguajes\Testing .NET\Functions\obj\Debug\net6.0\refint\Program.dll
+D:\Repositories\if4101-lenguajes\Testing .NET\Functions\obj\Debug\net6.0\Program.pdb
+D:\Repositories\if4101-lenguajes\Testing .NET\Functions\obj\Debug\net6.0\Program.genruntimeconfig.cache
+D:\Repositories\if4101-lenguajes\Testing .NET\Functions\obj\Debug\net6.0\ref\Program.dll
